@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Play button triangle -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M44,36 L44,72 L72,54 Z"
+        android:strokeWidth="0" />
+
+    <!-- Signal waves - outer -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M32,30 Q28,36 28,54 Q28,72 32,78"
+        android:strokeLineCap="round" />
+
+    <!-- Signal waves - inner -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B3FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M37,35 Q34,40 34,54 Q34,68 37,73"
+        android:strokeLineCap="round" />
+
+    <!-- Signal waves - right outer -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M76,30 Q80,36 80,54 Q80,72 76,78"
+        android:strokeLineCap="round" />
+
+    <!-- Signal waves - right inner -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B3FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M71,35 Q74,40 74,54 Q74,68 71,73"
+        android:strokeLineCap="round" />
+</vector>

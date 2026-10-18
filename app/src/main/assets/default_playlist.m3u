@@ -1,0 +1,162 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Government" tvg-name="DD National HD",DD National HD
+https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD News",DD News
+https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD News HD",DD News HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD Sports",DD Sports
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD Sports SD",DD Sports SD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD India",DD India
+https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD Bharati",DD Bharati
+https://cdn.pishow.tv/ott/live/10/master.m3u8
+#EXTINF:-1 group-title="Government" tvg-name="DD Kisan",DD Kisan
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Aaj Tak HD",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ABP News",ABP News
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="India Today",India Today
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="India TV",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="NDTV 24x7",NDTV 24x7
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
+#EXTINF:-1 group-title="News" tvg-name="NDTV India",NDTV India
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
+#EXTINF:-1 group-title="News" tvg-name="NDTV Profit",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 group-title="News" tvg-name="Manorama News",Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ABP Ananda",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ABP Asmita",ABP Asmita
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ABP Ganga",ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="News18 Bangla",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 group-title="News" tvg-name="NDTV Marathi",NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1 group-title="News" tvg-name="NDTV Rajasthan",NDTV Rajasthan
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 group-title="News" tvg-name="India TV Speed News",India TV Speed News
+https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ETV Andhra Pradesh",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ETV Telangana",ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="News" tvg-name="ETV News",ETV News
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Dangal TV",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Dangal 2",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="ETV Telugu HD",ETV Telugu HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="ETV Cinema HD",ETV Cinema HD
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="ETV Plus HD",ETV Plus HD
+https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="ETV Life",ETV Life
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="ETV Comedy",ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Colors Kannada HD",Colors Kannada HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Colors Marathi HD",Colors Marathi HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Colors Tamil HD",Colors Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="Amrita TV",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-name="NDTV Good Times",NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Goldmines",Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Goldmines 2",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Goldmines Bollywood",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="Goldmines Action",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="B4U Movies",B4U Movies
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="B4U Kadak",B4U Kadak
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-name="B4U Bhojpuri",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="9XM",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="9X Jalwa",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="9X Jhakaas",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="9X Tashan",9X Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="B4U Music",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="ETV Music",ETV Music
+https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="Mastiii",Mastiii
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-name="ETV Josh",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-name="Cartoon Network HD+",Cartoon Network HD+
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="DD Sports",DD Sports HD
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Cricket Gold",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 1",Star Sports 1
+http://103.151.60.162:2122/play/a01a/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 2 HD",Star Sports 2 HD
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports Ten 1 HD",Sony Sports Ten 1 HD
+http://103.185.24.134:3001/SonyTenSports1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports Ten 2",Sony Sports Ten 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-name="Sony Sports Ten 3",Sony Sports Ten 3
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-name="Ten Cricket",Ten Cricket
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-name="Willow Cricket",Willow Cricket
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="PTV Sports",PTV Sports
+http://103.250.28.74:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="ESPN",ESPN
+http://tvsen7.aynascope.net/espn/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="ESPN 2",ESPN 2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="ESPN 8 The Ocho",ESPN 8 The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Fox Sports 1",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Fox Sports News",Fox Sports News
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="beIN SPORTS XTRA",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Eurosport",Eurosport
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="CBS Sports HQ",CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="CBS Sports Golazo",CBS Sports Golazo
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Fubo Sports Network",Fubo Sports Network
+https://dnf08l6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Tennis Channel",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Tennis Channel 2",Tennis Channel 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="Fight Network",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Sports" tvg-name="WWE Network",WWE Network
+http://103.151.60.162:2122/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-name="SuperTennis",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8

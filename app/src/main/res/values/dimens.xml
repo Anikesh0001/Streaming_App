@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="channel_card_height">80dp</dimen>
+    <dimen name="channel_logo_size">48dp</dimen>
+    <dimen name="category_chip_height">36dp</dimen>
+    <dimen name="player_controls_height">56dp</dimen>
+    <dimen name="floating_player_width">240dp</dimen>
+    <dimen name="floating_player_height">135dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+</resources>
