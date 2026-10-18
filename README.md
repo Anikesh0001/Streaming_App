@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="screenshots/banner.png" alt="StreamFlix Banner" width="100%"/>
-</p>
-
 <h1 align="center">StreamFlix</h1>
 <h3 align="center">Stream Everything, Free Forever</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/API-24%2B-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-1.9.22-purple?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Anikesh0001/Streaming_App?style=for-the-badge" />
+  <a href="#installation"><img alt="Platform" src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android"/></a>
+  <a href="#tech-stack"><img alt="API" src="https://img.shields.io/badge/API-24%2B-blue?style=for-the-badge"/></a>
+  <a href="#tech-stack"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-1.9.22-purple?style=for-the-badge&logo=kotlin"/></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge"/></a>
+  <a href="https://github.com/Anikesh0001/Streaming_App/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Anikesh0001/Streaming_App?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
@@ -19,15 +15,6 @@
 </p>
 
 ---
-
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" width="24%" />
-  <img src="screenshots/player.png" width="24%" />
-  <img src="screenshots/categories.png" width="24%" />
-  <img src="screenshots/settings.png" width="24%" />
-</p>
 
 ## Features
 
